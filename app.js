@@ -21,5 +21,5 @@ feature2.addEventListener('click', doSomething);
 function doSomething() {
     console.log("its dammnn gooddddddd");
     console.log("add more to feature 2");
-    sdkfhskjdf
+    
 }
