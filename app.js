@@ -13,3 +13,12 @@ function changeBackground() {
     const body = document.querySelector("body");
     body.style.background = "#333";
 }
+
+const feature2 = document.querySelector(".feature2");
+
+feature2.addEventListener('click', doSomething);
+
+function doSomething() {
+    console.log("its dammnn gooddddddd");
+    gfdgdfjk
+}
