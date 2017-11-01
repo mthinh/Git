@@ -5,3 +5,11 @@ h1.addEventListener("click", alertClick);
 function alertClick() {
     alert("this is the first feature");
 }
+
+const feature1 = document.querySelector(".feature1");
+feature1.addEventListener("click", changeBackground);
+
+function changeBackground() {
+    const body = document.querySelector("body");
+    body.style.background = "#333";
+}
