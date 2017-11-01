@@ -20,5 +20,4 @@ feature2.addEventListener('click', doSomething);
 
 function doSomething() {
     console.log("its dammnn gooddddddd");
-    gfdgdfjk
 }
