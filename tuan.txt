@@ -1,2 +1,4 @@
-ahihi
+﻿ahihi
 >>moi nguoi practice trong branch develop de? xem no conflict ntn nhe’
+ahihi
+>>sao anh không thấy được cái nhánh develop nhỉ, chỉ thấy mỗi nhánh master? :))
