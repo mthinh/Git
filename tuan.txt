@@ -1,11 +1,22 @@
-﻿<<<<<<< HEAD
-﻿ahihi
-=======
-﻿ádsadasdsad
+
+ahihi
+ahihigdf cbdfc1ff69462db3fg0f883c878e2badb67060bc4a
+moi nguoi practice trong branch develop de?g no conflict ntn nhe’
+ahihigd
+sao anh không thấy được cái nhánh devsdelop nhỉ, chg thấy mỗi nhánh master? :))
+sadasdasfsgdgggggf
+sfdfjksd
+sfdjsdlkfjskld
+
+s
+fsdfksld
+
+fsjklfs
+
+
 ahihi
 ahihi
->>>>>>> cbdfc1ff694fsd62db30f883c878e2badb67060bc4a
->>moi nguoi practice trong branch develop de? xem no conflict ntn nhe’
+moi nguoi practice trong branch develop de? xem no conflict ntn nhe’
 ahihiffsdfsdf
 >>sao anh không thấy được cái nhánh develop nhỉ, chỉ thấy mỗi nhánh master? :))
 fsfsd
