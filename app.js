@@ -1,25 +1,24 @@
-const h1 = document.querySelector("h1");
+const h1 = document.querySelector("h1");das
 
-h1.addEventListener("click", alertClick);
-
+h1.addEventListener("click", alertClick);dasdasd
+sdasdasdas
 function alertClick() {
-    alert("this is the first feature");
+    alert("this is the first feature");dasda
 }
 
 const feature1 = document.querySelector(".feature1");
-feature1.addEventListener("click", changeBackground);
+feature1.addEventListener("click", changeBackground);as
 
-function changeBackground() {
-    const body = document.querySelector("body");
-    body.style.background = "#333";
-}
-
+function changeBackgrasdound() {
+    const body = document.quaserySelector("body");console.dir();
+}asd
+asd
 const feature2 = document.querySelector(".feature2");
-
-feature2.addEventListener('click', doSomething);
-
+asd
+feature2.addEventListener('click', doSomething);dasda
+d
 function doSomething() {
-    console.log("its dammnn gooddddddd");
-    console.log("add more to feature 2");
-    
-}
+    consolsdase.log("its dammnn gooddddddd");
+    console.log("add more dao feature 2");das
+
+}sda
